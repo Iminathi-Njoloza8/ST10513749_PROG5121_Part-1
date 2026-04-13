@@ -12,13 +12,9 @@ For this assignment I used NetBeans, as it is required of us as students to use 
 
 ---
 ## Features
----
 ### Username Validation
 In the "Login" class we have a username validation which makes sure that the username entered is no more than five characters in length and makes sure that the username has a unserscore("_").
----
 ### Password Validation
 Also in the "Login" class we have a password validation which makes sure that the password created is atleast eight characters in length, has a capital letter, has a number, and has a special character(!,@,#,$,%,&).
----
 ### Cellphone Number validation
 This is also in the "Login" class and it makes sure that the cell phone number has the correct international code (+27...) and is 12 characters in length.
----
