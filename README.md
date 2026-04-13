@@ -18,3 +18,11 @@ In the "Login" class we have a username validation which makes sure that the use
 Also in the "Login" class we have a password validation which makes sure that the password created is atleast eight characters in length, has a capital letter, has a number, and has a special character(!,@,#,$,%,&).
 ### Cellphone Number validation
 This is also in the "Login" class and it makes sure that the cell phone number has the correct international code (+27...) and is 12 characters in length.
+
+---
+### Registration Section
+In the "MainApp" class the registration section is where the programs allows the user to enter their username, password, and cellphone number. If one of these are entered incorrectly the system will output a message that states that the information enterd is incorrectly formatted please enter the correct format.
+### Login Section
+This is also in the "MainApp" class and it allows the user to enter their login information and if the login infromation is incorrect the system will output a message that states that "the username or password is incorrect ;please enter again".
+
+---
